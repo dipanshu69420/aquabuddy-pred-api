@@ -1,0 +1,1 @@
+{"features": ["doc", "slot_num", "current_mbw_g", "current_est_biomass_kg", "standard_guideline_feed_g", "feed_quantity_g", "prev_feed_quantity", "prev_waste_g", "prev_waste_pct", "check_tray_avg", "tray_waste_pct", "tithi_score", "is_molting_day", "humidity", "min_temp", "yesterday_same_slot_feed"], "slot_map": {"07:00": 1, "11:00": 2, "15:00": 3, "19:00": 4}}
